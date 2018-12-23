@@ -1,3 +1,8 @@
+---
+title: "Do you know your CMS from your SEO?"
+date: 2018-12-23
+---
+
 Originally written as a guest post written for Eight Arms
 
 Do you know your CMS from your SEO? Here we explain a few of the terms that we use throughout website projects.
