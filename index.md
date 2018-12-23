@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my github blog
 
-I'm glad you are here. I plan to talk about ...
+Over the next 8 steps I plan to style this page so that it looks like a real website!
